@@ -1,0 +1,12 @@
+Object Creation: new instantiates a new object of a class.
+
+Memory Allocation: Allocates memory for the object in the heap.
+
+Constructor Invocation: Calls the class constructor to initialize the object.
+
+Reference Return: Returns a reference to the created object.
+
+Array Creation: Also used for creating arrays, like int[] arr = new int[5];
+
+Dynamic Allocation: Unlike static allocation, new allows for dynamic memory
+                       allocation, allocating memory at runtime.

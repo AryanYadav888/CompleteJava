@@ -1,0 +1,16 @@
+ Instance variables :-
+    are variables declared inside a class but outside methods.
+    They belong to each object, so every object has its own copy.
+
+ Instance methods :-
+    are non-static methods that work on instance variables.
+    They need an object to be called.
+
+
+ ✅ If they ask follow-up:
+
+ Q: How are instance variables different from static variables?
+ A: Instance variables belong to objects (each object has its own copy), while static variables belong to the class (shared by all objects).
+
+ Q: How do you call an instance method?
+ A: Using an object reference, like s1.display();.

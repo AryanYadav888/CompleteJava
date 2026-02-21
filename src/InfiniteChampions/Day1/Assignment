@@ -1,0 +1,24 @@
+
+1. Minimum Number of Arrows to Burst Balloons
+• Problem: You are given a number of spherical balloons spread in a 2D space.
+For each balloon, the input is the start and end coordinates of the horizontal diameter.
+Find the minimum number of arrows that must be shot to burst all balloons.
+An arrow can be shot vertically from different points along the x-axis.
+• Objective: Implement a function that returns the minimum number of arrows needed to burst all balloons.
+• YouTube Solution (Java): Minimum Number of Arrows to Burst Balloons - Java Solution
+
+2. Sliding Window Maximum
+• Problem: You are given an integer array nums. There is a sliding window of size k which is moving from the very left of the array to the very right.
+You can only see the k numbers in the window. Each time the sliding window moves right by one position.
+Return the maximum sliding window.
+• Objective: Implement a function that returns an array of maximum values for each window position.
+• YouTube Solution (Java): Sliding Window Maximum - Java Solution
+
+3. Find First and Last Position of Element in Sorted Array
+• Problem: Given a sorted array of integers arr and a target value, find the start and end positions of the target value. If the target does not exist in the array, return [-1, -1].
+• Objective: Implement a function that returns the indices of the first and last occurrences of the target value.
+• YouTube Solution (Java): Find First and Last Position of Element in Sorted Array - Java Solution
+Submission Checklist
+• Time and space complexity analysis for each solution.
+• Test cases demonstrating the correctness of your solutions.
+

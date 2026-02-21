@@ -1,0 +1,20 @@
+
+1. Merge Sorted Array (88)
+•	Problem: You are given two sorted arrays, nums1 and nums2, where nums1 has extra space at the end to accommodate all elements of nums2. Merge the two arrays into a single sorted array in-place.
+•	Objective: Implement a function that merges two sorted arrays efficiently using pointers from the end.
+•	YouTube Solution (Java): Merge Sorted Array – Java Solution
+
+2. Kth Largest Element in an Array (215)
+•	Problem: You are given an unsorted array of integers. Find the Kth largest element in the array.
+•	Objective: Implement a function using Quickselect (or a heap) to efficiently determine the Kth largest element.
+•	YouTube Solution (Java): Kth Largest Element in an Array – Java Solution
+
+3. Valid Perfect Square (367)
+•	Problem: You are given a positive integer num. Determine if it is a perfect square without using built-in square root functions.
+•	Objective: Implement a binary search approach on the number range to verify whether a number is a perfect square.
+•	YouTube Solution (Java): Valid Perfect Square – Java Solution
+
+Submission Checklist
+• Time and space complexity analysis for each solution.
+• Test cases demonstrating the correctness of your solutions.
+

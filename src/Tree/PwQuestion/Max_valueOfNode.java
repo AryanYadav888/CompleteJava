@@ -18,12 +18,12 @@ public class Max_valueOfNode {
         return root;
     }
     public static int maxValue(Node root){
-//        using recursion
+//        using HWI.recursion
    /*     if(root == null) return Integer.MIN_VALUE;
         return Math.max(root.val,Math.max(maxValue(root.left),maxValue(root.right)));
     */
 
-//        without recursion
+//        without HWI.recursion
         if(root == null) return 0;
         Queue<Node> que = new LinkedList<>();
         que.add(root);
@@ -40,12 +40,12 @@ public class Max_valueOfNode {
     }
 
     public static int minValue(Node root){
-//        using recursion
+//        using HWI.recursion
         /*if(root==null) return Integer.MAX_VALUE;
         return Math.min(root.val,Math.min(minValue(root.left),minValue(root.right)));
         */
 
-//        without recursion
+//        without HWI.recursion
         if(root == null) return Integer.MAX_VALUE;
         Queue<Node> que = new LinkedList<>();
         que.add(root);
@@ -62,11 +62,11 @@ public class Max_valueOfNode {
     }
 
     public static int size(Node root){
-//        using recursion
+//        using HWI.recursion
         /*if(root==null) return 0;
         return 1+size(root.left)+size(root.right);*/
 
-//        without using recursion
+//        without using HWI.recursion
         if(root==null) return 0;
         Queue<Node> que = new LinkedList<>();
         que.add(root);
